@@ -1,3 +1,5 @@
+<img width="658" height="532" alt="Screenshot_12-Nov_21-33-59_6893" src="https://github.com/user-attachments/assets/4d5b5fca-4e81-4e75-afd9-b138ad2d4c89" />
+
 # 🐝 Hornet Cursor Theme for Linux
 
 A lightweight, stylish **Hornet-inspired animated cursor theme** for Linux 🖱️  
